@@ -171,6 +171,16 @@ h2 {
   width: 100%;
 }
 
+.error-message {
+  text-align: center;
+  padding: 32px;
+  width: 100%;
+  color: #ffd5da;
+  background-color: rgba(233, 69, 96, 0.15);
+  border: 1px solid rgba(233, 69, 96, 0.35);
+  border-radius: 8px;
+}
+
 footer {
   text-align: center;
   padding-bottom: 40px;
